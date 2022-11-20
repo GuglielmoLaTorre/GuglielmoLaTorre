@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuglielmoLaTorre
 - 👀 I’m interested in Data Analysis for healthcare and lifescience applications
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning R, Jamovi and Tableau
 - 📫 How to reach me: email gl501@cam.ac.uk
 
 <!---
